@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/deu9htse6t6456qa?svg=true)](https://ci.appveyor.com/project/JohnVanTuyl/powershell-koans)
+[![Build status](https://ci.appveyor.com/api/projects/status/y1e40cmlphqpiqmijq7b?svg=true)](https://ci.appveyor.com/project/mystyc/powershell-koans)
 
 # Powershell-Koans
 
