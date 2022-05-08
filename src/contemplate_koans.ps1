@@ -12,7 +12,7 @@ Write-Host "Meditating...`n" -ForegroundColor Cyan
 
 #import dependencies
 #overwrite the Pester in \lib with the localy installed one if possible
-Import-Module .\..\lib\Pester, Pester
+Import-Module .\..\lib\Pester
 
 
 #helpful defaults
